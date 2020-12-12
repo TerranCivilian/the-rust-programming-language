@@ -1,9 +1,9 @@
-# the_rust_programming_language
-
+# the-rust-programming-language
 This repo is to track my progress through The Rust Programming Language by Steve Klabnik and Carol Nichols.  
 I am reading the newer edition that covers Rust 2018. The repo contains code from the book along with my own  
 scratch code and experimentation.
 
+### Contents
 ch01: Getting Started  
 ch02: Programming a Guessing Game  
 ch03: Common Programming Concepts  
